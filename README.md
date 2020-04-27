@@ -41,3 +41,4 @@ The Sparkify.ipynb notebook contains all steps and markdown cells that were used
 you can check the results and the analysis on my medium here :
 
 ## Licensing, Authors, and Acknowledgements
+This project is under @GNU LICENSE
