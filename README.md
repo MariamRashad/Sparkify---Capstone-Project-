@@ -35,3 +35,9 @@ You will also need to run and execute them on a Jupyter Notebook.
 it is highly recommended that you install the Anaconda distribution of Python, which already has the above packages and more included. And for Spark, you can do this using AWS or IBM Cloud.
 
 ## File Description
+The Sparkify.ipynb notebook contains all steps and markdown cells that were used to help walking through .
+
+## Results 
+you can check the results and the analysis on my medium here :
+
+## Licensing, Authors, and Acknowledgements
