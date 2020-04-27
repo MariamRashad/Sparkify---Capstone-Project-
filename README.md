@@ -38,7 +38,7 @@ it is highly recommended that you install the Anaconda distribution of Python, w
 The Sparkify.ipynb notebook contains all steps and markdown cells that were used to help walking through .
 
 ## Results 
-you can check the results and the analysis on my medium here :
+you can check the results and the analysis on my medium here : https://medium.com/@mariammohamed_53266/sparkify-ae7e13e946fa
 
 ## Licensing, Authors, and Acknowledgements
 This project is under GNU General Public License v3.0
